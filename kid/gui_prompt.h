@@ -1,0 +1,2 @@
+
+//#define USER_MESSAGE_PROMPT	
