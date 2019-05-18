@@ -10,11 +10,9 @@
 	* kidO using image classification and recognition and understand the content the kid is seeing and comper it with the forbidden content.
 	
 ## Screenshots
-![login page](https://github.com/oririnat/kidO/blob/master/how%20it%20look/screenshots/site-1.png)
-tttttt tttttttt tttttttttttt ttttttttt ttttt tttt tt tttt tt ttttt tt ttttt ttttttt
-
-
-![select victim](https://raw.githubusercontent.com/oririnat/Ospy_RAT/master/screenshots/2.png)
+![one-page kidO site](https://github.com/oririnat/kidO/blob/master/how%20it%20look/screenshots/site-1.png)
+![one-page kidO site](https://github.com/oririnat/kidO/blob/master/how%20it%20look/screenshots/site-2.png)
+![one-page kidO site](https://github.com/oririnat/kidO/blob/master/how%20it%20look/screenshots/site-3.png)
 Select victim page. The attacker can see his lives connected victim list and choose one to attack
 
 
