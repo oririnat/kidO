@@ -10,25 +10,11 @@
 	* kidO using image classification and recognition and understand the content the kid is seeing and comper it with the forbidden content.
 	
 ## Screenshots
+kidO website -
 ![one-page kidO site](https://github.com/oririnat/kidO/blob/master/how%20it%20look/screenshots/full-site.png)
-Select victim page. The attacker can see his lives connected victim list and choose one to attack
+
+kidO parent dashboard control -
+![kidO parent dashboard](https://github.com/oririnat/kidO/blob/master/how%20it%20look/screenshots/dashboard-1.png)
+![kidO parent dashboard](https://github.com/oririnat/kidO/blob/master/how%20it%20look/screenshots/dashboard-2.png)
 
 
-![fun page](https://raw.githubusercontent.com/oririnat/Ospy_RAT/master/screenshots/3.png)
-Ospy is an attacker friendly app and it contains pleasant surprise to the attacker
-
-![manu page](https://raw.githubusercontent.com/oririnat/Ospy_RAT/master/screenshots/4.png)
-The attacker can perform now a few attacks on the selected victim such as the above
-
-
-![exempal](https://raw.githubusercontent.com/oririnat/Ospy_RAT/master/screenshots/5.png)
-For example, choosing option 1 will send back to the attacker the keylogger history senes the victim has first inspected by Ospy
-
-
-![folders](https://raw.githubusercontent.com/oririnat/Ospy_RAT/master/screenshots/6.png)
-All the files from the attacks and the setup will save in an organized way in Ospy folder
-
-
-## Legal disclaimer
-Ospy is an open source software, designed for educational purpose only. please use it for this designated purpose.
-I will not take any responsibility for inappropriate usage in Ospy.
