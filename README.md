@@ -1,24 +1,17 @@
-# kidP
-> kidO. Developed in c
+# kidO
+> kidO - Parental control software that lets the parent monitor the child's behaviors in the digital world.
 
 ## Features
-* Keylogger
-	* the attacker can receive the keylogger history senes the victim has first inspected by Ospy
-	* the attacker can see in live mode the victim keystrokes
-* Screen capture
-	* the attacker can see in live mode the victim screen
-* System profiler
-	* the attacker can receive the system profiler. The system profiler file provides reports on the hardware and software configuration of the victim system. 
-* Bind shell
-	* bind shell allow the attacker to execution command victim machine
-* Fork boom
-	* fork boom option allows the attack to stuck the victim computer completely, the victim will have to hard restart the computer to use it again
-* Delete all victim's file
-	* No more words (⊙_☉)	
+* Keystrock analyzer
+	* kidO using keystroke analyzer with a blacklist of forbidden swear words and alert of any use of a swear word from the kid.
+* OCR analyzer
+	* kidO using advanced OCR (Optical Character Recognition) technology to interact the entire text the kid is reading and analyze it.
+* On-screen content analyzer
+	* kidO using image classification and recognition and understand the content the kid is seeing and comper it with the forbidden content.
 	
 ## Screenshots
-![login page](https://raw.githubusercontent.com/oririnat/Ospy_RAT/master/screenshots/1.png)
-Log in page. The attacker can register to Ospy by buying a license key
+![login page](https://github.com/oririnat/kidO/blob/master/how%20it%20look/screenshots/site-1.png)
+tttttt tttttttt tttttttttttt ttttttttt ttttt tttt tt tttt tt ttttt tt ttttt ttttttt
 
 
 ![select victim](https://raw.githubusercontent.com/oririnat/Ospy_RAT/master/screenshots/2.png)
