@@ -110,3 +110,6 @@ smbff
 smd
 stfu
 wtf
+
+ori
+ori

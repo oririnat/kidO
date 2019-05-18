@@ -415,3 +415,7 @@ Fri May 10 22:03:58 2019 : Host disconnected, ip 127.0.0.1 , port 59743
 Fri May 10 22:04:09 2019 : New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 59750
 Fri May 10 22:04:09 2019 : Adding to list of sockets as 5
 Fri May 10 22:07:55 2019 : Host disconnected, ip 127.0.0.1 , port 59750 
+kidO server started at : Mon May 13 17:09:04 2019
+Mon May 13 17:09:04 2019 : New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 63683
+Mon May 13 17:09:04 2019 : Adding to list of sockets as 5
+Mon May 13 17:10:12 2019 : Host disconnected, ip 127.0.0.1 , port 63683 
